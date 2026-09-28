@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Скорые круглогодичные",
+        "min_num": 1,
+        "max_num": 150,
+        "routes": {
+            "Москва - Белгород": {"time": 10, "avg_price_per_hour": 210, "number_there": "042В", "number_back": "051П"},
+            "Москва - Воронеж": {"time": 9, "avg_price_per_hour": 220, "number_there": "071А", "number_back": "137З"},
+            "Москва - Казань": {"time": 12, "avg_price_per_hour": 190, "number_there": "104Б", "number_back": "088Ф"},
+            "Москва - Нижний Новгород": {"time": 7, "avg_price_per_hour": 230, "number_there": "038Г", "number_back": "012И"},
+            "Москва - Самара": {"time": 15, "avg_price_per_hour": 180, "number_there": "118Д", "number_back": "058Л"},
+            "Москва - Ростов-на-Дону": {"time": 17, "avg_price_per_hour": 175, "number_there": "089Е", "number_back": "003Э"},
+            "Санкт-Петербург - Нижний Новгород": {"time": 14, "avg_price_per_hour": 185, "number_there": "056Ж", "number_back": "100П"},
+            "Москва - Екатеринбург": {"time": 26, "avg_price_per_hour": 160, "number_there": "132З", "number_back": "139Ф"},
+            "Москва - Пермь": {"time": 20, "avg_price_per_hour": 165, "number_there": "095Б", "number_back": "147Д"},
+            "Екатеринбург - Казань": {"time": 12, "avg_price_per_hour": 195, "number_there": "017В", "number_back": "075З"},
+            "Екатеринбург - Пермь": {"time": 6, "avg_price_per_hour": 200, "number_there": "023Г", "number_back": "144Т"},
+            "Екатеринбург - Уфа": {"time": 7, "avg_price_per_hour": 198, "number_there": "029Д", "number_back": "017Г"},
+            "Казань - Нижний Новгород": {"time": 7, "avg_price_per_hour": 205, "number_there": "034Е", "number_back": "121Д"},
+            "Казань - Ижевск": {"time": 6, "avg_price_per_hour": 200, "number_there": "041Ж", "number_back": "032Ч"},
+            "Казань - Пермь": {"time": 8, "avg_price_per_hour": 195, "number_there": "047З", "number_back": "046Л"},
+            "Нижний Новгород - Самара": {"time": 10, "avg_price_per_hour": 190, "number_there": "053А", "number_back": "130Т"},
+            "Нижний Новгород - Волгоград": {"time": 14, "avg_price_per_hour": 180, "number_there": "059Б", "number_back": "008Е"},
+            "Самара - Уфа": {"time": 7, "avg_price_per_hour": 200, "number_there": "064В", "number_back": "036Э"},
+            "Самара - Оренбург": {"time": 6, "avg_price_per_hour": 205, "number_there": "070Г", "number_back": "126Ж"},
+            "Уфа - Челябинск": {"time": 7, "avg_price_per_hour": 200, "number_there": "076Д", "number_back": "104В"},
+            "Ростов-на-Дону - Краснодар": {"time": 5, "avg_price_per_hour": 215, "number_there": "082Е", "number_back": "134Ц"},
+            "Ростов-на-Дону - Волгоград": {"time": 8, "avg_price_per_hour": 210, "number_there": "088Ж", "number_back": "039К"},
+            "Волгоград - Астрахань": {"time": 7, "avg_price_per_hour": 205, "number_there": "094З", "number_back": "110К"},
+            "Волгоград - Саратов": {"time": 6, "avg_price_per_hour": 210, "number_there": "099А", "number_back": "077А"},
+            "Краснодар - Новороссийск": {"time": 3, "avg_price_per_hour": 220, "number_there": "105Б", "number_back": "095Я"},
+            "Краснодар - Сочи": {"time": 6, "avg_price_per_hour": 215, "number_there": "111В", "number_back": "016Ш"},
+            "Пермь - Ижевск": {"time": 6, "avg_price_per_hour": 200, "number_there": "117Г", "number_back": "124В"},
+            "Воронеж - Курск": {"time": 4, "avg_price_per_hour": 225, "number_there": "123Д", "number_back": "015Ш"},
+            "Воронеж - Липецк": {"time": 3, "avg_price_per_hour": 225, "number_there": "129Е", "number_back": "042С"},
+            "Москва - Тамбов": {"time": 8, "avg_price_per_hour": 215, "number_there": "136А", "number_back": "079Ш"},
+            "Москва - Киров": {"time": 12, "avg_price_per_hour": 190, "number_there": "138Б", "number_back": "061Р"},
+            "Самара - Пенза": {"time": 5, "avg_price_per_hour": 205, "number_there": "072Д", "number_back": "001Э"}
+        },
+        "coaches": {
+            "3Э": {"coach_numbers": [4, 5, 6, 7, 8, 9, 10, 11], "seats_count": 54, "price_multiplier": 1.0},
+            "2Э": {"coach_numbers": [1, 2, 3, 12, 13], "seats_count": 36, "price_multiplier": 1.6},
+            "1Б": {"coach_numbers": [14], "seats_count": 20, "price_multiplier": 2.5},
+            "1Л": {"coach_numbers": [15], "seats_count": 18, "price_multiplier": 2.8},
+            "1А": {"coach_numbers": [16], "seats_count": 16, "price_multiplier": 3.0},
+            "1И": {"coach_numbers": [17], "seats_count": 18, "price_multiplier": 2.7}
+        }
+    },
+    {
+        "name": "Скорые сезонные",
+        "min_num": 151,
+        "max_num": 298,
+        "routes": {
+            "Москва - Адлер": {"time": 25, "avg_price_per_hour": 165, "number_there": "207Б", "number_back": "278Г"},
+            "Москва - Анапа": {"time": 22, "avg_price_per_hour": 170, "number_there": "223Г", "number_back": "263Д"},
+            "Москва - Новороссийск": {"time": 24, "avg_price_per_hour": 168, "number_there": "255Д", "number_back": "199Ш"},
+            "Санкт-Петербург - Адлер": {"time": 38, "avg_price_per_hour": 150, "number_there": "181Е", "number_back": "207В"},
+            "Екатеринбург - Анапа": {"time": 42, "avg_price_per_hour": 145, "number_there": "271Ж", "number_back": "252В"},
+            "Москва - Ейск": {"time": 20, "avg_price_per_hour": 172, "number_there": "196З", "number_back": "201Д"},
+            "Пермь - Сочи": {"time": 35, "avg_price_per_hour": 150, "number_there": "215А", "number_back": "155П"},
+            "Нижний Новгород - Адлер": {"time": 30, "avg_price_per_hour": 155, "number_there": "228Б", "number_back": "208Ц"},
+            "Волгоград - Сочи": {"time": 18, "avg_price_per_hour": 175, "number_there": "241В", "number_back": "191К"},
+            "Самара - Анапа": {"time": 24, "avg_price_per_hour": 165, "number_there": "252Г", "number_back": "275Я"},
+            "Казань - Адлер": {"time": 36, "avg_price_per_hour": 148, "number_there": "264Д", "number_back": "226Ф"},
+            "Уфа - Анапа": {"time": 32, "avg_price_per_hour": 150, "number_there": "279Е", "number_back": "256П"},
+            "Челябинск - Анапа": {"time": 38, "avg_price_per_hour": 145, "number_there": "289Ж", "number_back": "177У"}
+        },
+        "coaches": {
+            "3Э": {"coach_numbers": [3, 4, 5, 6, 7, 8], "seats_count": 54, "price_multiplier": 1.0},
+            "2Э": {"coach_numbers": [1, 2, 9, 10], "seats_count": 36, "price_multiplier": 1.6}
+        }
+    },
+    {
+        "name": "Пассажирские круглогодичные",
+        "min_num": 301,
+        "max_num": 450,
+        "routes": {
+            "Москва - Владивосток": {"time": 146, "avg_price_per_hour": 120, "number_there": "389З", "number_back": "314Н"},
+            "Москва - Хабаровск": {"time": 133, "avg_price_per_hour": 125, "number_there": "431А", "number_back": "361Ш"},
+            "Москва - Иркутск": {"time": 80, "avg_price_per_hour": 130, "number_there": "341Б", "number_back": "400К"},
+            "Москва - Красноярск": {"time": 68, "avg_price_per_hour": 135, "number_there": "422В", "number_back": "386А"},
+            "Москва - Омск": {"time": 38, "avg_price_per_hour": 140, "number_there": "440Г", "number_back": "356Н"},
+            "Москва - Новосибирск": {"time": 50, "avg_price_per_hour": 132, "number_there": "312Д", "number_back": "308Т"},
+            "Москва - Улан-Удэ": {"time": 89, "avg_price_per_hour": 122, "number_there": "365Е", "number_back": "393Х"},
+            "Москва - Чита": {"time": 100, "avg_price_per_hour": 118, "number_there": "404Ж", "number_back": "330Л"},
+            "Новосибирск - Владивосток": {"time": 85, "avg_price_per_hour": 125, "number_there": "318А", "number_back": "331Ф"},
+            "Екатеринбург - Новосибирск": {"time": 24, "avg_price_per_hour": 140, "number_there": "324Б", "number_back": "391У"},
+            "Красноярск - Иркутск": {"time": 18, "avg_price_per_hour": 145, "number_there": "330В", "number_back": "357Т"},
+            "Иркутск - Чита": {"time": 18, "avg_price_per_hour": 145, "number_there": "336Г", "number_back": "378К"},
+            "Чита - Хабаровск": {"time": 35, "avg_price_per_hour": 138, "number_there": "348Д", "number_back": "306Л"},
+            "Хабаровск - Владивосток": {"time": 13, "avg_price_per_hour": 150, "number_there": "354Е", "number_back": "355Ф"},
+            "Омск - Новосибирск": {"time": 11, "avg_price_per_hour": 150, "number_there": "360Ж", "number_back": "435О"},
+            "Новосибирск - Красноярск": {"time": 14, "avg_price_per_hour": 148, "number_there": "372З", "number_back": "437Э"},
+            "Новосибирск - Барнаул": {"time": 5, "avg_price_per_hour": 155, "number_there": "378А", "number_back": "336Э"},
+            "Кемерово - Новокузнецк": {"time": 4, "avg_price_per_hour": 155, "number_there": "384Б", "number_back": "316У"},
+            "Москва - Барнаул": {"time": 52, "avg_price_per_hour": 130, "number_there": "412А", "number_back": "413Ж"},
+            "Москва - Тюмень": {"time": 32, "avg_price_per_hour": 135, "number_there": "441А", "number_back": "364Ж"}
+        },
+        "coaches": {
+            "3Э": {"coach_numbers": [4, 5, 6, 7, 8, 9, 10, 11, 12], "seats_count": 54, "price_multiplier": 1.0},
+            "2Э": {"coach_numbers": [1, 2, 3, 13, 14, 15], "seats_count": 36, "price_multiplier": 1.6},
+            "1А": {"coach_numbers": [16], "seats_count": 16, "price_multiplier": 3.0},
+            "1И": {"coach_numbers": [17], "seats_count": 18, "price_multiplier": 2.7}
+        }
+    },
+    {
+        "name": "Пассажирские сезонные",
+        "min_num": 451,
+        "max_num": 598,
+        "routes": {
+            "Москва - Мурманск": {"time": 32, "avg_price_per_hour": 150, "number_there": "483Б", "number_back": "546М"},
+            "Москва - Архангельск": {"time": 21, "avg_price_per_hour": 155, "number_there": "521Г", "number_back": "540Ш"},
+            "Санкт-Петербург - Мурманск": {"time": 26, "avg_price_per_hour": 148, "number_there": "497Д", "number_back": "543С"},
+            "Санкт-Петербург - Архангельск": {"time": 19, "avg_price_per_hour": 152, "number_there": "560А", "number_back": "570Ч"},
+            "Москва - Калининград": {"time": 19, "avg_price_per_hour": 160, "number_there": "494Ж", "number_back": "575З"},
+            "Москва - Воркута": {"time": 39, "avg_price_per_hour": 145, "number_there": "578З", "number_back": "583Э"},
+            "Москва - Сыктывкар": {"time": 22, "avg_price_per_hour": 150, "number_there": "505Б", "number_back": "506Я"},
+            "Москва - Ухта": {"time": 26, "avg_price_per_hour": 148, "number_there": "512В", "number_back": "531В"},
+            "Санкт-Петербург - Череповец": {"time": 9, "avg_price_per_hour": 158, "number_there": "530Г", "number_back": "547Х"},
+            "Усинск - Печора": {"time": 4, "avg_price_per_hour": 155, "number_there": "545Д", "number_back": "504П"}
+        },
+        "coaches": {
+            "3Э": {"coach_numbers": [4, 5, 6, 7, 8, 9, 10], "seats_count": 54, "price_multiplier": 1.0},
+            "2Э": {"coach_numbers": [1, 2, 3, 11, 12], "seats_count": 36, "price_multiplier": 1.6}
+        }
+    },
+    {
+        "name": "Скоростные — Ласточка (Сидячий вагон)",
+        "physical_train": "Ласточка",
+        "min_num": 701,
+        "max_num": 750,
+        "routes": {
+            "Москва - Иваново": {"time": 4, "avg_price_per_hour": 340, "number_there": "712Б", "number_back": "713К"},
+            "Москва - Курск": {"time": 5, "avg_price_per_hour": 330, "number_there": "725Г", "number_back": "724Д"},
+            "Москва - Рязань": {"time": 3, "avg_price_per_hour": 350, "number_there": "710Д", "number_back": "742Н"},
+            "Москва - Смоленск": {"time": 5, "avg_price_per_hour": 335, "number_there": "738Е", "number_back": "736Л"},
+            "Москва - Владимир": {"time": 2, "avg_price_per_hour": 360, "number_there": "704Ж", "number_back": "727Ю"},
+            "Санкт-Петербург - Великий Новгород": {"time": 3, "avg_price_per_hour": 345, "number_there": "749З", "number_back": "729А"},
+            "Ростов-на-Дону - Краснодар": {"time": 3, "avg_price_per_hour": 355, "number_there": "716А", "number_back": "737Ж"},
+            "Краснодар - Адлер": {"time": 3, "avg_price_per_hour": 360, "number_there": "722В", "number_back": "731П"},
+            "Ростов-на-Дону - Адлер": {"time": 6, "avg_price_per_hour": 340, "number_there": "731Г", "number_back": "741Д"},
+            "Екатеринбург - Тюмень": {"time": 4, "avg_price_per_hour": 345, "number_there": "708Е", "number_back": "722О"},
+            "Москва - Кострома": {"time": 4, "avg_price_per_hour": 330, "number_there": "746Я", "number_back": "749К"}
+        },
+        "coaches": {
+            "1С": {"coach_numbers": [1, 2], "seats_count": 48, "price_multiplier": 2.0},
+            "1Р": {"coach_numbers": [3], "seats_count": 32, "price_multiplier": 2.4},
+            "1В": {"coach_numbers": [4], "seats_count": 30, "seats_per_compartment": 30, "price_multiplier": 3.5},
+            "2Р": {"coach_numbers": [5, 6], "seats_count": 60, "price_multiplier": 1.5},
+            "2Е": {"coach_numbers": [7, 8], "seats_count": 68, "price_multiplier": 1.3}
+        },
+        "whole_unit_classes": ["1В"]
+    },
+    {
+        "name": "Скоростные — Стриж",
+        "physical_train": "Стриж",
+        "min_num": 701,
+        "max_num": 750,
+        "routes": {
+            "Москва - Нижний Новгород": {"time": 4, "avg_price_per_hour": 400, "number_there": "730В", "number_back": "702К"},
+            "Москва - Казань": {"time": 7, "avg_price_per_hour": 380, "number_there": "715Ж", "number_back": "735Ю"},
+            "Москва - Самара": {"time": 9, "avg_price_per_hour": 370, "number_there": "746Б", "number_back": "746Ф"},
+            "Москва - Уфа": {"time": 11, "avg_price_per_hour": 360, "number_there": "727З", "number_back": "729Р"},
+            "Москва - Челябинск": {"time": 15, "avg_price_per_hour": 350, "number_there": "702Ж", "number_back": "715З"}
+        },
+        "coaches": {
+            "1Е": {"coach_numbers": [1], "seats_count": 16, "seats_per_compartment": 2, "price_multiplier": 3.5},
+            "1Р": {"coach_numbers": [2, 3], "seats_count": 48, "price_multiplier": 2.8},
+            "2С": {"coach_numbers": [4, 5, 6], "seats_count": 68, "price_multiplier": 2.0}
+        },
+        "whole_unit_classes": ["1Е"]
+    },
+    {
+        "name": "Высокоскоростные — Сапсан",
+        "physical_train": "Сапсан",
+        "min_num": 751,
+        "max_num": 788,
+        "routes": {
+            "Москва - Санкт-Петербург": {"time": 4, "avg_price_per_hour": 450, "number_there": "767А", "number_back": "753Д"},
+            "Москва - Нижний Новгород": {"time": 3, "avg_price_per_hour": 420, "number_there": "778В", "number_back": "763Х"},
+            "Москва - Тверь": {"time": 5, "avg_price_per_hour": 410, "number_there": "771Б", "number_back": "773О"},
+            "Москва - Бологое": {"time": 2, "avg_price_per_hour": 460, "number_there": "784Ж", "number_back": "762Л"},
+            "Москва - Вышний Волочек": {"time": 3, "avg_price_per_hour": 420, "number_there": "759З", "number_back": "761А"},
+            "Санкт-Петербург - Бологое": {"time": 2, "avg_price_per_hour": 430, "number_there": "763Е", "number_back": "757М"}
+        },
+        "coaches": {
+            "1Р": {"coach_numbers": [1], "seats_count": 16, "seats_per_compartment": 4, "price_multiplier": 4.0},
+            "1В": {"coach_numbers": [2, 3], "seats_count": 48, "price_multiplier": 3.0},
+            "1С": {"coach_numbers": [4, 5], "seats_count": 48, "price_multiplier": 2.5},
+            "2С": {"coach_numbers": [6, 7, 8, 9], "seats_count": 68, "price_multiplier": 1.8},
+            "2В": {"coach_numbers": [10, 20], "seats_count": 68, "price_multiplier": 2.0},
+            "2Е": {"coach_numbers": [11], "seats_count": 68, "price_multiplier": 2.2}
+        },
+        "whole_unit_classes": ["1Р"],
+        "dining_included": {"2Е": 2000}
+    }
+]
